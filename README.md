@@ -15,7 +15,7 @@
        cropper.crop()
 ```
 
-##### Fet Faces and Result types
+##### Get Faces and Result types
 
 ```Swift
        cropper.getFaces { (faces, type) in
